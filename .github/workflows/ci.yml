@@ -33,5 +33,4 @@ jobs:
       with:
         image: zife10/school
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+
